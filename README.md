@@ -31,7 +31,7 @@ stimuliParameters must specify the frame indices when the visual stimulus starts
 
 Example:
 
-stimuliParameters.stimulusFieldName = 'alpha'
+stimuliParameters.stimulusFieldName = 'alpha';
 stimuliParameters.stimulusStartAndEndFrames = [180, 240] %(from 6s to 8s at 30 Hz)
 
 See the provided sample data for a realistic example of the required data format.
